@@ -60,6 +60,6 @@ answers.
 
 *Ongoing — updated as I progress through levels.*
 ##
-[Full Writeups (PDF)]()
+[Full Writeups (PDF)](./OverTheWireNatas(Level1-10))
 
 ---
