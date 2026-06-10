@@ -1,4 +1,3 @@
-# OverTheWire-NATAS-Walkthrough 
 # Natas Wargame Walkthrough — OverTheWire
 
 A personal documentation of my progress through the **Natas** wargame by 
