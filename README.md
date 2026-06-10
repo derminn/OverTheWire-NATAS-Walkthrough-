@@ -60,6 +60,6 @@ answers.
 
 *Ongoing — updated as I progress through levels.*
 ##
-[Full Writeups (PDF)](./OverTheWireNatas(Level1-10))
+[Full Writeups (PDF)](https://github.com/derminn/OverTheWire-NATAS-Walkthrough-/blob/main/OverTheWireNatas(Level1-10).pdf)
 
 ---
